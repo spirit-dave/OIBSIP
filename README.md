@@ -61,8 +61,11 @@ pip install -r requirements.txt
 - Run the scripts for each step as needed:
   
 python step2_descriptive_statistics.py
+
 python step3_time_series_analysis.py
+
 python step4_customer_product_analysis.py
+
 python step5_visualization.py
 
 ## Results
