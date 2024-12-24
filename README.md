@@ -44,29 +44,29 @@ Providing actionable business recommendations based on the findings.
 
 ## How to Run the Project
 
-- Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/your-username/retail-sales-analysis.git
 
-- Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd retail-sales-analysis
 
-- Install the required Python packages:
+3. Install the required Python packages:
 
 pip install -r requirements.txt
 
-- Place your dataset in the project directory and update the file path in the scripts.
+4. Place your dataset in the project directory and update the file path in the scripts.
 
-- Run the scripts for each step as needed:
+5. Run the scripts for each step as needed:
   
-1. python step2_descriptive_statistics.py
+- python step2_descriptive_statistics.py
 
-2. python step3_time_series_analysis.py
+- python step3_time_series_analysis.py
 
-3. python step4_customer_product_analysis.py
+- python step4_customer_product_analysis.py
 
-4. python step5_visualization.py
+- python step5_visualization.py
 
 ## Results
 
