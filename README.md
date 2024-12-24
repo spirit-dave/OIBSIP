@@ -82,21 +82,21 @@ The project provides:
 
 1. Heatmaps (Correlation Analysis):
 
-   Insight: Heatmaps helped identify relationships between numerical variables, such as:
+Insight: Heatmaps helped identify relationships between numerical variables, such as:
 - Strong correlations between sales and discounts suggest customers respond well to promotional offers.
 - Weak correlations between customer demographics and total purchase value may indicate uniform spending behavior across groups.
 
-  Actionable Recommendation: Use data-driven insights to design effective discount strategies and refine customer segmentation approaches for personalized marketing.
+Actionable Recommendation: Use data-driven insights to design effective discount strategies and refine customer segmentation approaches for personalized marketing.
 
 ![image](https://github.com/user-attachments/assets/628289b8-b92e-4de2-855b-ee7f526e7f48)
 
 2. Line Plots (Sales Trends):
 
-   Insight: The line plot for sales trends highlighted peaks and troughs in sales over time. 
+Insight: The line plot for sales trends highlighted peaks and troughs in sales over time. 
 - Seasonal spikes during holiday months indicate increased shopping activity.
 - Consistent dips in sales during off-peak months suggest a need for targeted promotions or campaigns during those times.
 
-   Actionable Recommendation: Align marketing and inventory strategies with these patterns to optimize revenue during peak seasons and drive sales during slower periods.
+Actionable Recommendation: Align marketing and inventory strategies with these patterns to optimize revenue during peak seasons and drive sales during slower periods.
 
 ![image](https://github.com/user-attachments/assets/54546c37-8c7d-481b-88c9-350962559257)
 
