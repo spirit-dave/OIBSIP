@@ -46,7 +46,7 @@ Providing actionable business recommendations based on the findings.
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/retail-sales-analysis.git
+git clone https:https://github.com/spirit-dave/OIBSIP
 
 2. Navigate to the project directory:
 
@@ -78,7 +78,7 @@ The project provides:
 
 - Actionable recommendations to improve sales performance.
 
-## Visualizations
+## Sample Visualization Output
 https://github.com/spirit-dave/OIBSIP/blob/main/top_product_categories_bar_chart.png
 
 ## Key Recommendations:
