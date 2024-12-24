@@ -78,3 +78,13 @@ The project provides:
 
 - Actionable recommendations to improve sales performance.
 
+## Key Recommendations:
+
+1.	Inventory Management: Ensure sufficient stock for popular products and reduce stock for underperforming items.
+2.	Targeted Promotions: Run promotions on high-margin products or those in underperforming categories.
+3.	Customer Focus: Focus on the dominant customer age group and gender for marketing campaigns.
+4.	Seasonal Trends: Prepare for peaks in sales trends by optimizing supply chain and logistics.
+5.	Data-Driven Marketing: Use customer demographics for personalized offers and loyalty programs.
+6.	Evaluation: Periodically reassess low-performing products for strategic improvements.
+
+
