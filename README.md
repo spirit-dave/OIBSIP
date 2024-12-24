@@ -79,7 +79,12 @@ The project provides:
 - Actionable recommendations to improve sales performance.
 
 ## Sample Visualization Output
-https://github.com/spirit-dave/OIBSIP/blob/main/top_product_categories_bar_chart.png
+
+![image](https://github.com/user-attachments/assets/628289b8-b92e-4de2-855b-ee7f526e7f48)
+
+![image](https://github.com/user-attachments/assets/49ce58cd-c896-49ac-9ab2-2c4cbea8d20e)
+
+![image](https://github.com/user-attachments/assets/54546c37-8c7d-481b-88c9-350962559257)
 
 ## Key Recommendations:
 
