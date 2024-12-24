@@ -78,6 +78,9 @@ The project provides:
 
 - Actionable recommendations to improve sales performance.
 
+## Visualizations
+https://github.com/spirit-dave/OIBSIP/blob/main/top_product_categories_bar_chart.png
+
 ## Key Recommendations:
 
 1.	Inventory Management: Ensure sufficient stock for popular products and reduce stock for underperforming items.
