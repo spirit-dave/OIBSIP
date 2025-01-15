@@ -30,43 +30,7 @@ Presenting insights through visualizations including line plots, bar charts, and
 
 - Recommendations:
 
-Providing actionable business recommendations based on the findings.
-
-## Technologies Used
-
-- Python: Primary programming language for analysis.
-
-- Pandas: For data manipulation and analysis.
-
-- Matplotlib: For creating visualizations.
-
-- Seaborn: For advanced statistical graphics.
-
-## How to Run the Project
-
-1. Clone the repository:
-
-git clone https:https://github.com/spirit-dave/OIBSIP
-
-2. Navigate to the project directory:
-
-cd retail-sales-analysis
-
-3. Install the required Python packages:
-
-pip install -r requirements.txt
-
-4. Place your dataset in the project directory and update the file path in the scripts.
-
-5. Run the scripts for each step as needed:
-  
-- python step2_descriptive_statistics.py
-
-- python step3_time_series_analysis.py
-
-- python step4_customer_product_analysis.py
-
-- python step5_visualization.py
+Providing actionable business recommendations based on the findingsn step5_visualization.py
 
 ## Results
 
